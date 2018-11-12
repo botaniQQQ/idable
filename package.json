@@ -1,0 +1,27 @@
+{
+  "name": "idable",
+  "version": "1.0.0",
+  "description": "A human readable random ID for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/botaniQQQ/idable.git"
+  },
+  "keywords": [
+    "readable",
+    "id",
+    "idable"
+  ],
+  "author": {
+    "name": "botaniQQQ",
+    "email": "botaniq3@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/botaniQQQ/idable/issues"
+  },
+  "homepage": "https://github.com/botaniQQQ/idable#readme"
+}
